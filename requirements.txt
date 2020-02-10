@@ -3,3 +3,4 @@ Django== 2.2.7
 django-jython==1.3.0
 pytz==2019.3
 sqlparse==0.3.0
+pyinstaller==3.6
